@@ -11,7 +11,7 @@
         "config": {
           "distDir": "staticfiles_build"
         }
-      }S
+      }
     ],
     "routes": [
       {
